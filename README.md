@@ -57,6 +57,11 @@ Open index.html in your browser to view the site locally.
 No build or server required — all client‑side.
 
 🖥️ Preview
+## 🖥️ Preview
+
+![Website Preview](preview.png)
+
+
 
 
 📚 Tech Stack & Tools
