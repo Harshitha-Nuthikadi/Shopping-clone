@@ -59,7 +59,7 @@ No build or server required — all client‑side.
 🖥️ Preview
 ## 🖥️ Preview
 
-![Website Preview](preview.png)
+![Website Preview](Preview.png)
 
 
 
