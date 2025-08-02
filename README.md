@@ -1,4 +1,4 @@
-#hars
+
 🛍️ Shopping‑Clone
 A fully functional e-commerce web app replicating Amazon’s interface and core features. Built with responsive HTML and CSS.
 github.com
@@ -57,7 +57,7 @@ Open index.html in your browser to view the site locally.
 No build or server required — all client‑side.
 
 🖥️ Preview
-(You can insert screenshots here by linking images from the repo: e.g., hero section, product grid, mobile view.)
+
 
 📚 Tech Stack & Tools
 HTML5: Structuring the complete layout.
