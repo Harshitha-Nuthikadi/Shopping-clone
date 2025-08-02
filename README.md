@@ -29,29 +29,14 @@ Category cards and product images with styling hover effects.
 
 Mobile‑and‑desktop responsive layout via CSS media queries.
 
-🗂️ Project Structure
-pgsql
-Copy
-Edit
-/
-├── index.html
-├── style.css
-├── assets/ (images like heroimg.jpg, products: books, fashion, furniture, etc.)
-├── amazonlogo.jpj.webp
-└── README.md
-🛠️ Installation & Usage
+
 Clone the repo:
-
-bash
-Copy
-Edit
 git clone https://github.com/Harshitha-Nuthikadi/Shopping-clone.git
-Navigate to directory:
 
-bash
-Copy
-Edit
+Navigate to directory
+
 cd Shopping-clone
+
 Open index.html in your browser to view the site locally.
 
 No build or server required — all client‑side.
@@ -89,4 +74,4 @@ Add accessibility improvements and ARIA tags.
 
 👩‍💻 Credits
 Created by Harshitha Nuthikadi.
-Feel free to ⭐ the repo if you like it and share feedback!
+Feel free to  the repo if you like it and share feedback!
